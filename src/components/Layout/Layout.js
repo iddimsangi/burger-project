@@ -3,7 +3,7 @@ import classes from './Layout.css';
 import Aux from '../../hoc/Aux';
 const layout = (props) =>(
     <Aux>
-        <div>
+            <div>
             Toolbar, SideDrawer and BackDrop
             </div>
             <main className={classes.Container}>
